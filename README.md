@@ -5,7 +5,7 @@
 - I am 28 years old.
 
 ## 📚 I’m Currently Good With
-- Front-End with HTML5, CSSs, JS, ReactJS.
+- Front-End with HTML5, CSS3, JS, ReactJS.
 
 ## 🛠 **Languages and Tools**
 <img align="left" height="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/82c259d214eaf0bb45ef8789e842f0b65bbc3b3d/icons/visualstudiocode.svg"/>
